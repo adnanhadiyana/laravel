@@ -10,6 +10,7 @@
 <div class="col">
 
 <h1>Daftar Mahasiswa</h1>
+<a href="/students/create" class="btn btn-primary">Tambah data mahasiswa</a>
 
 <table class="table">
   <thead class="bg-primary">
